@@ -1,7 +1,7 @@
 - 👋 Hi, I’m AbdulGhani
-- 👀 I’m interested in web development & software development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning backend development
+- 💞️ I’m looking to collaborate on backend development projects
 - 📫 How to reach me itsaghani@gmail.com
 
 <!---
