@@ -11,9 +11,6 @@
 
 ![](https://komarev.com/ghpvc/?username=AbdulGhani002&color=blue)<br>
 ### A passionate and enthusiastic programmer<br>
-<div align="center">
-  <img height="200" src="https://yt3.ggpht.com/aZwOyRoTvmtZsAVxTiSc48ZUofoba60FiEMq9dHp0d4Nv2Do-pcZ6SOx354XPr7KXZfbo6DACgcaZQ=s600-c-fcrop64=1,00000000ffffffff-nd-v1" width= "350" align=right />
-</div>
 - 👨‍🏭 I’m currently pursuing <b>BS Artificial Intelligence</b> <br>
 - 🏫 I’m currently learning <b>Databases, Data Structures and Algorithms</b> <br>
 - 🙌 I’m looking to collaborate on <b>Web Development Projects</b> <br>
