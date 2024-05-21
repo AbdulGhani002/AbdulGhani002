@@ -70,7 +70,7 @@
 </div>
 
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulGhani002" alt="github stats" /></p>
 ### Snake-Eating My Contribution Graph:🐍📈
 
 <img src="https://raw.githubusercontent.com/AbdulGhani002/AbdulGhani002/output/snake.svg" alt="Snake animation" />
