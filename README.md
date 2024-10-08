@@ -35,18 +35,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulghani002&" alt="abdulghani002" /></p>
 
-
-### 📈 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulGhani002&show_icons=true&theme=radical" height="150" alt="GitHub Stats" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulGhani002&locale=en&layout=compact&card_width=320&langs_count=5&theme=radical" height="150" alt="Top Languages" /><br>
-  <img src="https://github-profile-trophy.vercel.app?username=AbdulGhani002&theme=darkhub&no-frame=false&column=6&margin-w=8&margin-h=8" height="150" alt="Trophies" /><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulGhani002&radius=16&theme=radical&area=true" height="300" alt="Activity Graph" />
-</div>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulGhani002&theme=radical" alt="GitHub Streak" /></p>
-
 ### Snake Eating My Contribution Graph 🐍📈
 
 <div align="center">
