@@ -1,6 +1,5 @@
 # Hi, I'm Abdul Ghani! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AbdulGhani002&color=blue)
 
 ### A Passionate and Enthusiastic Programmer
 
