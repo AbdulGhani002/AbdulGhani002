@@ -9,7 +9,6 @@
 - 🌱 Actively Expanding Skills in Backend Development
 - 🙌 Open to Collaborating on **Web Development Projects**
 - 🤔 Seeking Help with **Model Training**
-- 🥅 **Upcoming Goals:** Contribute to Open Source, Master DSA & Development
 - Contact me: [itsaghani@gmail.com](mailto:itsaghani@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulghani002&label=Profile%20views&color=0e75b6&style=flat" alt="abdulghani002" /> </p>
