@@ -3,7 +3,7 @@
 
 ### A Passionate and Enthusiastic Programmer
 
-- 👨‍🏭 Pursuing a **BS in Artificial Intelligence**
+- 👨‍🏭 Pursuing a **Student of Artificial Intelligence**
 - 🏫 Currently Learning **Databases, Data Structures, and Algorithms**
 - 👀 **Interested in Backend Development**
 - 🌱 Actively Expanding Skills in Backend Development
